@@ -1,0 +1,1 @@
+Course outline can can be found [here](https://learn.microsoft.com/en-gb/certifications/exams/dp-100)
