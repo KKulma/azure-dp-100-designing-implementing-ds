@@ -1,0 +1,1 @@
+All exercises for this module can be found under [this link](https://microsoftlearning.github.io/mslearn-dp100/).
